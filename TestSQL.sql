@@ -11,3 +11,5 @@ while @i<=10
   end;
   
 return;
+
+Select Top 10 1
