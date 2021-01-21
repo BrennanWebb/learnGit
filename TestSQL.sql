@@ -9,10 +9,3 @@ while @i<=10
     exec (@sql);
     set @i=@i+1
   end;
-  
-return;
- Select 8
-Select Top 10 1
-Select 90
-
---notes here too
