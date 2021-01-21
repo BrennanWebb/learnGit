@@ -11,5 +11,3 @@ while @i<=10
   end;
   
 return;
-
-Select Top 1 * from INFORMATION_SCHEMA.Columns 
