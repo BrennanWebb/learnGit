@@ -9,3 +9,5 @@ while @i<=10
     exec (@sql);
     set @i=@i+1
   end;
+  
+  --test this.  wow
